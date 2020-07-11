@@ -1,4 +1,4 @@
-<img width="560" height="500" src="https://github.com/stefanselftaught/stefanselftaught/blob/master/brah.jpg" alt="profile image" />
+<img width="480" height="420" src="https://github.com/stefanselftaught/stefanselftaught/blob/master/brah.jpg" alt="profile image" />
 
 <!---
 ### Hi there 👋
