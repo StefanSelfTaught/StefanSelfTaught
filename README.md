@@ -1,4 +1,4 @@
-![Repository Banner](brah.jpg)
+![Repository Banner](https://github.com/stefanselftaught/stefanselftaught/blob/master/brah.jpg)
 
 <!---
 ### Hi there 👋
