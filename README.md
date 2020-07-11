@@ -1,4 +1,4 @@
-<img src="/brah.jpg" />
+![Repository Banner](brah.jpg)
 
 <!---
 ### Hi there 👋
