@@ -1,4 +1,4 @@
-![Repository Banner](https://github.com/stefanselftaught/stefanselftaught/blob/master/brah.jpg)
+<a width="200" height="200" href="https://github.com/stefanselftaught/stefanselftaught/blob/master/brah.jpg" alt="profile image" />
 
 <!---
 ### Hi there 👋
