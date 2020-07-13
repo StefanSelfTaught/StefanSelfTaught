@@ -11,3 +11,5 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: <stefanpop999@gmail.com>
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=stefanselftaught&show_icons=true&line_height=28)
+
