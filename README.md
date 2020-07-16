@@ -9,6 +9,7 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/StefanSelfTaught)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stefan-pop-9a55a6191/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:stefanpop999@gmail.com)
+[![Website](https://img.shields.io/badge/-Website-blueviolet)](https://stefanpop.dev)
 
 - 🔭 I’m currently working on my personal projects.
 - 🌱 I’m currently learning <a href="https://graphql.org/" target="_blank">GraphQL</a>
