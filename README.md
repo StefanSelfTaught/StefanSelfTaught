@@ -11,7 +11,9 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:stefanpop999@gmail.com)
 [![Website](https://img.shields.io/badge/-Website-blueviolet)](https://stefanpop.dev)
 
+<!---
 - 🔭 I’m currently working on my personal projects.
+-->
 - 🌱 I’m currently learning <a href="https://graphql.org/" target="_blank">GraphQL</a>
 - 💬 Ask me about anything
 - 📫 How to reach me: <stefanpop999@gmail.com>
