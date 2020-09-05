@@ -11,8 +11,6 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:stefanpop999@gmail.com)
 [![Website](https://img.shields.io/badge/-Website-blueviolet)](https://stefanpop.dev)
 
-<br />
-
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -28,7 +26,7 @@
 
 <br />
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=stefanselftaught&show_icons=true&hide=stars&line_height=28&count_private=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=stefanselftaught&show_icons=true&hide=stars&line_height=28&count_private=true)
 
 <br />
 
