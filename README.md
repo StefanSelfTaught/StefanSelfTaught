@@ -15,8 +15,4 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=stefanselftaught&show_icons=true&hide=stars&line_height=28&count_private=true)
 
-<br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stefanselftaught&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
