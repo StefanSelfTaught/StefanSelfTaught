@@ -12,6 +12,6 @@
 
 <br />
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=stefanselftaught&show_icons=true&hide=stars&line_height=28&count_private=true)
+![Stefan's github stats](https://github-readme-stats.vercel.app/api?username=stefanselftaught&show_icons=true&hide=stars&line_height=28&count_private=true)
 
 
