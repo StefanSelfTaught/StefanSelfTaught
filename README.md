@@ -12,6 +12,6 @@
 
 <br />
 
-![Stefan's github stats](https://github-readme-stats.vercel.app/api?username=stefanselftaught&show_icons=true&hide=stars&line_height=28&count_private=true&theme=radical)
+![Metrics](https://metrics.lecoq.io/StefanSelfTaught?template=classic&config.timezone=Europe%2FBucharest)
 
 
