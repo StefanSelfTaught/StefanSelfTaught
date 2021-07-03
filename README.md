@@ -10,6 +10,6 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:stefanpop999@gmail.com)
 [![Website](https://img.shields.io/badge/-Website-blueviolet)](https://stefanpop.dev)
 
-![Metrics](https://metrics.lecoq.io/StefanSelfTaught?template=classic&config.timezone=Europe%2FBucharest)
+![Metrics](https://github.com/StefanSelfTaught/StefanSelfTaught/blob/master/github-metrics.svg)
 
 
