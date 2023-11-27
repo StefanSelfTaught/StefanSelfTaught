@@ -6,6 +6,4 @@
 
 ## Hi there 👋
 
-![Metrics](https://github.com/StefanSelfTaught/StefanSelfTaught/blob/master/github-metrics.svg)
-
 
