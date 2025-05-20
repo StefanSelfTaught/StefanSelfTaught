@@ -4,6 +4,6 @@
 </div>
 -->
 
-## Hi there 👋
+## hey friends, lets build it!
 
 
